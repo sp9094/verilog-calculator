@@ -1,5 +1,15 @@
 # Verilog Arithmetic Operations
 
+![Build Status](https://github.com/your_username/verilog-calculator/actions/workflows/main.yml/badge.svg)
+![License](https://img.shields.io/github/license/your_username/verilog-calculator)
+![Repo Size](https://img.shields.io/github/repo-size/your_username/verilog-calculator)
+![Last Commit](https://img.shields.io/github/last-commit/your_username/verilog-calculator)
+![Issues](https://img.shields.io/github/issues/your_username/verilog-calculator)
+
+This is a simple calculator implemented in Verilog that can perform basic arithmetic operations: addition, subtraction, multiplication, and division.
+
+# Verilog Arithmetic Operations
+
 This is a simple calculator implemented in Verilog that can perform basic arithmetic operations: addition, subtraction, multiplication, and division.
 
 ## Files
